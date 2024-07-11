@@ -1,0 +1,14 @@
+D:\Diploma\C#\OOP\iti\Session02\OOPDemo\OOP\bin\Debug\net8.0\OOP.exe
+D:\Diploma\C#\OOP\iti\Session02\OOPDemo\OOP\bin\Debug\net8.0\OOP.deps.json
+D:\Diploma\C#\OOP\iti\Session02\OOPDemo\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+D:\Diploma\C#\OOP\iti\Session02\OOPDemo\OOP\bin\Debug\net8.0\OOP.dll
+D:\Diploma\C#\OOP\iti\Session02\OOPDemo\OOP\bin\Debug\net8.0\OOP.pdb
+D:\Diploma\C#\OOP\iti\Session02\OOPDemo\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\C#\OOP\iti\Session02\OOPDemo\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+D:\Diploma\C#\OOP\iti\Session02\OOPDemo\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+D:\Diploma\C#\OOP\iti\Session02\OOPDemo\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+D:\Diploma\C#\OOP\iti\Session02\OOPDemo\OOP\obj\Debug\net8.0\OOP.dll
+D:\Diploma\C#\OOP\iti\Session02\OOPDemo\OOP\obj\Debug\net8.0\refint\OOP.dll
+D:\Diploma\C#\OOP\iti\Session02\OOPDemo\OOP\obj\Debug\net8.0\OOP.pdb
+D:\Diploma\C#\OOP\iti\Session02\OOPDemo\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+D:\Diploma\C#\OOP\iti\Session02\OOPDemo\OOP\obj\Debug\net8.0\ref\OOP.dll
